@@ -5,6 +5,11 @@
         column-gap: 2rem;
     }
 }
+.informacion-meta{
+    span{
+        color: $amarillo;
+     }
+}
 
 .entrada-blog{
     margin-bottom: 2rem;
@@ -42,7 +47,5 @@
         margin-top: 1rem;
       }
     }
-    span{
-       color: $amarillo;
-    }
+    
 }
